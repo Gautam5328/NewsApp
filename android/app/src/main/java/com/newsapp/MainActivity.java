@@ -1,4 +1,4 @@
-package com.newsapp;
+package com.newsappgautam;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
